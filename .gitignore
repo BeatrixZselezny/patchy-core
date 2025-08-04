@@ -1,1 +1,15 @@
+debiana@Blackswan:~/w3school/objexamples/police$ cat .gitignore
+.env
+codeql/
+codeql-db/
+src_codeql/
+*.log
+bin/
+.gradle/
+.idea/
+*.zip
+realtime/
 target/
+*.class
+*.tmp
+*.jar
