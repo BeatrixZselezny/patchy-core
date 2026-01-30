@@ -1,13 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/xsd/maven-4.0.0.xsd">
-
-  <parent>
-     <groupId>io.github.beatrixzselezny</groupId>
-      <artifactId>patchy-parent</artifactId>
-          <version>1.0.0</version>
-    <relativePath>../patchy-parent/pom.xml</relativePath>
-  </parent>
   
   <modelVersion>4.0.0</modelVersion>
 
@@ -95,7 +88,7 @@
     <dependency>
       <groupId>org.assertj</groupId>
       <artifactId>assertj-core</artifactId>
-      <version>3.25.3</version>
+      <version>3.26.3</version>
       <scope>test</scope>
     </dependency>
 
